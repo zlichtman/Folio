@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="1024" height="1024">
+  <!-- Folio's mark: a visual library as a gallery grid, three square tiles and one round one. -->
+  <g fill="#000"><rect x="0" y="0" width="46" height="46" rx="5"/><rect x="0" y="54" width="46" height="46" rx="5"/><rect x="54" y="54" width="46" height="46" rx="5"/><circle cx="77" cy="23" r="23"/></g>
+</svg>

@@ -1,0 +1,12 @@
+.build/
+.build-local/
+.DS_Store
+dist/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+capture-key
+
+work/
+.claude/
+.swiftpm/

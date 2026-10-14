@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "checked": [
+    "Firefox",
+    "Chrome"
+  ],
+  "scripts": [
+    "background.js",
+    "content.js",
+    "options.js",
+    "popup.js"
+  ],
+  "errors": [],
+  "scope": "Offline manifest, file, icon and script checks. Not a browser install test."
+}

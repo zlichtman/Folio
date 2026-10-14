@@ -1,0 +1,30 @@
+{
+  "app" : "LumaShelf",
+  "firstScreenPreviewsReady" : true,
+  "firstScreenPreviewWaitMS" : 104.29504167404957,
+  "gridUpdateCPU" : {
+    "count" : 358,
+    "maxMS" : 2.1185416699154302,
+    "medianMS" : 0.15112500113900751,
+    "p95MS" : 1.2296666682232171
+  },
+  "items" : 10000,
+  "mainRunLoopIntervals" : {
+    "count" : 360,
+    "maxMS" : 22.235500000533648,
+    "medianMS" : 16.667541669448838,
+    "p95MS" : 17.490916667156853
+  },
+  "nominalScrollPointsPerSecond" : 2400,
+  "note" : "CPU update times and timer intervals; not GPU frame times. Preview readiness measured separately.",
+  "peakTileLayers" : 24,
+  "scrollMode" : "fixed-speed scrolling",
+  "scrollSpanPoints" : 7200,
+  "startupToItemsMS" : 283.92483333300333,
+  "steps" : 360,
+  "tileSize" : 170,
+  "version" : "0.1.0",
+  "viewportHeight" : 674,
+  "viewportWidth" : 761,
+  "visiblePreviewReadyFraction" : 1
+}

@@ -1,0 +1,121 @@
+{
+  "scope": "Actual local Vision analysis; demo photo and original vector studies, no mocked scores.",
+  "samples": [
+    {
+      "title": "neutral-01",
+      "analysis": {
+        "suggestions": [
+          {
+            "label": "cat",
+            "evidence": "vision",
+            "confidence": 0.7748235
+          },
+          {
+            "label": "textile",
+            "evidence": "vision",
+            "confidence": 0.68896484
+          },
+          {
+            "label": "gray",
+            "evidence": "color",
+            "confidence": 0.3654514
+          }
+        ],
+        "colors": [
+          "#8b8185",
+          "#6a5756",
+          "#644c5c",
+          "#191718"
+        ],
+        "text": "",
+        "elapsedMS": 299.39333333459217,
+        "engine": "Apple Vision \u00b7 local"
+      }
+    },
+    {
+      "title": "study-27",
+      "analysis": {
+        "suggestions": [
+          {
+            "confidence": 0.9375,
+            "evidence": "vision",
+            "label": "chart"
+          },
+          {
+            "confidence": 0.9375,
+            "evidence": "vision",
+            "label": "diagram"
+          },
+          {
+            "confidence": 0.9375,
+            "evidence": "vision",
+            "label": "document"
+          },
+          {
+            "confidence": 0.7473958,
+            "evidence": "color",
+            "label": "white"
+          },
+          {
+            "confidence": 0.8,
+            "evidence": "ocr",
+            "label": "typography"
+          }
+        ],
+        "colors": [
+          "#f7f8fa",
+          "#595f86",
+          "#bcbec7"
+        ],
+        "engine": "Apple Vision \u00b7 local",
+        "text": "tempo\nOverview\nProjects\nGood morning, Alex.\nYour week, at a glance\n24\n86%\nActivity\n7",
+        "elapsedMS": 79.94020833575632
+      }
+    },
+    {
+      "title": "study-30",
+      "analysis": {
+        "suggestions": [
+          {
+            "confidence": 0.3708496,
+            "evidence": "vision",
+            "label": "sign"
+          },
+          {
+            "confidence": 0.3708496,
+            "evidence": "vision",
+            "label": "structure"
+          },
+          {
+            "confidence": 0.1001359,
+            "evidence": "vision",
+            "label": "document"
+          },
+          {
+            "confidence": 0.095703125,
+            "evidence": "vision",
+            "label": "printed-page"
+          },
+          {
+            "confidence": 0.95095485,
+            "evidence": "color",
+            "label": "yellow"
+          },
+          {
+            "confidence": 0.8,
+            "evidence": "ocr",
+            "label": "typography"
+          }
+        ],
+        "colors": [
+          "#d9dc4c",
+          "#2b2a38",
+          "#3a3a3a"
+        ],
+        "engine": "Apple Vision \u00b7 local",
+        "text": "AN INDEPENDENT DESIGN EXHIBITION\nMAKE\nROOM\nFOR\nIDEAS.\nOCT 11-25 / EVERYWHERE",
+        "elapsedMS": 110.93429167522117
+      }
+    }
+  ]
+}

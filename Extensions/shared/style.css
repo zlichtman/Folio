@@ -1,0 +1,17 @@
+:root { color-scheme: light dark; font: 13px -apple-system, BlinkMacSystemFont, system-ui, sans-serif; --line: light-dark(#c9c9c9, #4a4a4a); --accent: #1f7a4d; }
+body { margin: 0; min-width: 300px; background: light-dark(#f7f7f5, #1f1f1f); color: light-dark(#1d1d1f, #f2f2f2); }
+main { padding: 18px 20px 20px; max-width: 440px; }
+header { display: flex; align-items: center; gap: 9px; margin-bottom: 4px; }
+header img { border-radius: 22%; }
+h1 { font-size: 17px; font-weight: 600; margin: 0; }
+p { line-height: 1.45; margin: 10px 0; }
+label { display: block; font-weight: 600; margin: 16px 0 6px; }
+label.check { display: flex; align-items: center; gap: 8px; font-weight: 400; margin-top: 18px; }
+input[type=text], input[type=password], select { box-sizing: border-box; width: 100%; border: 1px solid var(--line); border-radius: 6px; padding: 7px 9px; font: inherit; background: light-dark(#fff, #2a2a2a); color: inherit; }
+input[type=text] { margin-top: 8px; }
+button { display: block; width: 100%; margin-top: 14px; padding: 8px 10px; border: 0; border-radius: 6px; background: var(--accent); color: #fff; font: inherit; font-weight: 600; cursor: pointer; }
+button:disabled { opacity: .5; cursor: default; }
+button.secondary { background: transparent; color: inherit; border: 1px solid var(--line); font-weight: 500; }
+.small { font-size: 11.5px; opacity: .75; }
+#status { min-height: 19px; }
+[hidden] { display: none !important; }

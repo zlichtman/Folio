@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>Connect to Folio</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<main>
+  <header><img src="icons/icon-48.png" alt="" width="32" height="32"><h1>Connect to Folio</h1></header>
+  <p>In Folio, open Settings, choose Extensions, and copy the connection key. Paste it below.</p>
+  <label for="key">Connection key</label>
+  <input id="key" type="password" autocomplete="off" spellcheck="false">
+  <button id="connect">Save and test connection</button>
+  <p id="status" role="status"></p>
+  <label class="check"><input id="alt-click" type="checkbox" checked> Option-click an image or video to save it</label>
+  <label class="check"><input id="drag-panel" type="checkbox" checked> Show your collections while dragging an image or video</label>
+  <p class="small">The key stays in this browser. Saved items go straight to the Folio app on this Mac. No account or cloud service is used.</p>
+</main>
+<script src="options.js"></script>
+</body>
+</html>

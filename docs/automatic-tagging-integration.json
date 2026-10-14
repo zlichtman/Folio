@@ -1,0 +1,306 @@
+{
+  "app" : "Folio",
+  "failed" : 0,
+  "items" : [
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 2736,
+      "ocrCharacters" : 0,
+      "tags" : "cat textile gray",
+      "title" : "neutral-01",
+      "width" : 3648
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 650,
+      "ocrCharacters" : 20,
+      "tags" : "document chart diagram white typography",
+      "title" : "study-31",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1200,
+      "ocrCharacters" : 76,
+      "tags" : "sign structure yellow typography",
+      "title" : "study-30",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 800,
+      "ocrCharacters" : 88,
+      "tags" : "document chart diagram white typography",
+      "title" : "study-29",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1000,
+      "ocrCharacters" : 56,
+      "tags" : "white typography",
+      "title" : "study-28",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 670,
+      "ocrCharacters" : 84,
+      "tags" : "chart diagram document white typography",
+      "title" : "study-27",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 740,
+      "ocrCharacters" : 24,
+      "tags" : "document screenshot blue typography",
+      "title" : "study-26",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1200,
+      "ocrCharacters" : 103,
+      "tags" : "document printed-page white typography",
+      "title" : "study-25",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1160,
+      "ocrCharacters" : 59,
+      "tags" : "green typography",
+      "title" : "study-24",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 650,
+      "ocrCharacters" : 20,
+      "tags" : "document chart diagram white typography",
+      "title" : "study-23",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1200,
+      "ocrCharacters" : 76,
+      "tags" : "sign structure yellow typography",
+      "title" : "study-22",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 800,
+      "ocrCharacters" : 88,
+      "tags" : "document chart diagram white typography",
+      "title" : "study-21",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1000,
+      "ocrCharacters" : 56,
+      "tags" : "white typography",
+      "title" : "study-20",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 670,
+      "ocrCharacters" : 84,
+      "tags" : "chart diagram document white typography",
+      "title" : "study-19",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 740,
+      "ocrCharacters" : 24,
+      "tags" : "document screenshot blue typography",
+      "title" : "study-18",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1200,
+      "ocrCharacters" : 103,
+      "tags" : "document printed-page chart white typography",
+      "title" : "study-17",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1160,
+      "ocrCharacters" : 59,
+      "tags" : "orange typography",
+      "title" : "study-16",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 650,
+      "ocrCharacters" : 20,
+      "tags" : "document chart diagram white typography",
+      "title" : "study-15",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1200,
+      "ocrCharacters" : 76,
+      "tags" : "sign structure yellow typography",
+      "title" : "study-14",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 800,
+      "ocrCharacters" : 88,
+      "tags" : "document chart diagram white typography",
+      "title" : "study-13",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1000,
+      "ocrCharacters" : 56,
+      "tags" : "white typography",
+      "title" : "study-12",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 670,
+      "ocrCharacters" : 84,
+      "tags" : "document chart diagram white typography",
+      "title" : "study-11",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 740,
+      "ocrCharacters" : 24,
+      "tags" : "document screenshot blue typography",
+      "title" : "study-10",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1200,
+      "ocrCharacters" : 103,
+      "tags" : "document printed-page white typography",
+      "title" : "study-09",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1160,
+      "ocrCharacters" : 58,
+      "tags" : "green typography",
+      "title" : "study-08",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 650,
+      "ocrCharacters" : 20,
+      "tags" : "document chart diagram white typography",
+      "title" : "study-07",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1200,
+      "ocrCharacters" : 76,
+      "tags" : "sign structure yellow typography",
+      "title" : "study-06",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 800,
+      "ocrCharacters" : 88,
+      "tags" : "document chart diagram white typography",
+      "title" : "study-05",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1000,
+      "ocrCharacters" : 56,
+      "tags" : "white typography",
+      "title" : "study-04",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 670,
+      "ocrCharacters" : 91,
+      "tags" : "document chart diagram white typography",
+      "title" : "study-03",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 740,
+      "ocrCharacters" : 23,
+      "tags" : "document screenshot blue",
+      "title" : "study-02",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1200,
+      "ocrCharacters" : 103,
+      "tags" : "document printed-page chart white typography",
+      "title" : "study-01",
+      "width" : 900
+    },
+    {
+      "automaticTagsSearchable" : true,
+      "hasAnalysis" : true,
+      "height" : 1160,
+      "ocrCharacters" : 58,
+      "tags" : "orange typography",
+      "title" : "study-00",
+      "width" : 900
+    }
+  ],
+  "processed" : 33,
+  "scope" : "Real app import, local classification, persisted tags, and FTS queries. No mocked model outputs.",
+  "version" : "0.2.0"
+}

@@ -1,0 +1,36 @@
+{
+  "app" : "LumaShelf",
+  "cacheState" : "Repeated searches\/loads; warm OS filesystem cache. Thumbnail measurements bypass app preview caches.",
+  "checksum" : 620630,
+  "dataset" : "Synthetic JPEG illustrations; 1% 2560px, others 640px. Not a representative photographic workload.",
+  "decode512px" : {
+    "count" : 300,
+    "maxMS" : 11.370749998604879,
+    "medianMS" : 2.2410833335015923,
+    "p95MS" : 2.9621666617458686
+  },
+  "fullTextSearch" : {
+    "count" : 210,
+    "maxMS" : 17.714416666422039,
+    "medianMS" : 3.1042500049807131,
+    "p95MS" : 3.716041668667458
+  },
+  "hardware" : "Record host details separately; no cross-machine comparison implied.",
+  "insertMS" : 158.6737083416665,
+  "items" : 10000,
+  "loadAllMetadata" : {
+    "count" : 30,
+    "maxMS" : 6.8591250019380823,
+    "medianMS" : 6.079791666707024,
+    "p95MS" : 6.384250009432435
+  },
+  "scanMS" : 1636.3491666561458,
+  "searchIncludesResultMaterialization" : true,
+  "version" : "0.1.0",
+  "visibleRangeMath" : {
+    "count" : 10000,
+    "maxMS" : 0.00012500095181167126,
+    "medianMS" : 0,
+    "p95MS" : 4.1676685214042664e-05
+  }
+}

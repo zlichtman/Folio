@@ -1,0 +1,36 @@
+{
+  "app" : "Folio",
+  "cacheState" : "Repeated searches\/loads; warm OS filesystem cache. Thumbnail measurements bypass app preview caches.",
+  "checksum" : 669870,
+  "dataset" : "Synthetic JPEG illustrations; 1% 2560px, others 640px. Not a representative photographic workload.",
+  "decode512px" : {
+    "count" : 300,
+    "maxMS" : 3.488000002107583,
+    "medianMS" : 1.9917916797567159,
+    "p95MS" : 2.711791661567986
+  },
+  "fullTextSearch" : {
+    "count" : 210,
+    "maxMS" : 3.9314166642725468,
+    "medianMS" : 3.39483332936652,
+    "p95MS" : 3.6828750016866252
+  },
+  "hardware" : "Record host details separately; no cross-machine comparison implied.",
+  "insertMS" : 160.94454166886862,
+  "items" : 10000,
+  "loadAllMetadata" : {
+    "count" : 30,
+    "maxMS" : 7.6392916671466082,
+    "medianMS" : 6.5624166745692492,
+    "p95MS" : 7.3299999930895865
+  },
+  "scanMS" : 2846.6356666613137,
+  "searchIncludesResultMaterialization" : true,
+  "version" : "0.2.0",
+  "visibleRangeMath" : {
+    "count" : 10000,
+    "maxMS" : 0.00041666498873382807,
+    "medianMS" : 0.00012500095181167126,
+    "p95MS" : 0.00020833977032452822
+  }
+}

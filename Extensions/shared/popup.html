@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>Save to Folio</title><link rel="stylesheet" href="style.css"></head>
+<body class="popup">
+<main>
+  <header><img src="icons/icon-32.png" alt="" width="20" height="20"><h1>Save to Folio</h1></header>
+  <label for="collection">Collection</label>
+  <select id="collection"><option>Inbox</option></select>
+  <input id="new-collection" type="text" placeholder="New collection name" maxlength="120" autocomplete="off" hidden>
+  <button id="save" disabled>Save this page</button>
+  <p id="status" role="status">Connecting…</p>
+  <p id="alt-hint" class="small">Option-click any image to save it.</p>
+  <button id="settings" class="secondary">Connection settings</button>
+</main>
+<script src="popup.js"></script>
+</body>
+</html>

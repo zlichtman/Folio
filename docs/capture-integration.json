@@ -1,0 +1,123 @@
+{
+  "passed": 29,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "Key file is owner-only",
+      "passed": true
+    },
+    {
+      "name": "Unpaired and wrong keys rejected",
+      "passed": true
+    },
+    {
+      "name": "Web page origins rejected, extension origins allowed",
+      "passed": true
+    },
+    {
+      "name": "DNS rebinding host names rejected",
+      "passed": true
+    },
+    {
+      "name": "Malformed requests rejected and the service keeps running",
+      "passed": true
+    },
+    {
+      "name": "Only web addresses accepted",
+      "passed": true
+    },
+    {
+      "name": "Downloads from this Mac refused",
+      "passed": true
+    },
+    {
+      "name": "Saved links keep the target and the page",
+      "passed": true
+    },
+    {
+      "name": "A typed collection is created",
+      "passed": true
+    },
+    {
+      "name": "Page snapshots saved by content and quarantined",
+      "passed": true
+    },
+    {
+      "name": "A busy port does not quit a second copy",
+      "passed": true
+    },
+    {
+      "name": "Context menus registered",
+      "passed": true
+    },
+    {
+      "name": "Images saved by their bytes, not the server type",
+      "passed": true
+    },
+    {
+      "name": "The badge clears after 3 seconds",
+      "passed": true
+    },
+    {
+      "name": "Repeat captures are not duplicated",
+      "passed": true
+    },
+    {
+      "name": "Fake images refused",
+      "passed": true
+    },
+    {
+      "name": "Executables refused",
+      "passed": true
+    },
+    {
+      "name": "Disk images refused",
+      "passed": true
+    },
+    {
+      "name": "Archives refused",
+      "passed": true
+    },
+    {
+      "name": "Oversized media refused",
+      "passed": true
+    },
+    {
+      "name": "Media past 100 MB while streaming refused",
+      "passed": true
+    },
+    {
+      "name": "Missing media reported",
+      "passed": true
+    },
+    {
+      "name": "Videos saved as videos",
+      "passed": true
+    },
+    {
+      "name": "Redirects followed",
+      "passed": true
+    },
+    {
+      "name": "The popup creates a typed collection and remembers it",
+      "passed": true
+    },
+    {
+      "name": "Save link uses the link as the item and the page as its source",
+      "passed": true
+    },
+    {
+      "name": "Option-click saves the image under the pointer",
+      "passed": true
+    },
+    {
+      "name": "Pages cannot use privileged extension messages",
+      "passed": true
+    },
+    {
+      "name": "The extension refuses to send without a key",
+      "passed": true
+    }
+  ],
+  "scope": "Real Folio binary, HTTP service, downloads, SQLite and files in an isolated library; real extension scripts with mocked browser APIs. Browser installation and UI are not exercised."
+}

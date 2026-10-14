@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Build and test
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Toolchain
+        run: swift --version
+
+      - name: Release metadata
+        run: |
+          plutil -lint Info.plist Folio.entitlements
+          for script in scripts/*.sh "Run Folio.command"; do zsh -n "$script"; done
+          for script in scripts/*.swift; do swiftc -typecheck "$script"; done
+          ./scripts/check-release.sh --metadata
+
+      - name: Build
+        run: swift build -debug-info-format none
+
+      - name: Test
+        run: swift test -debug-info-format none

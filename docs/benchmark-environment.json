@@ -1,0 +1,11 @@
+{
+  "measuredAt": "2026-10-11",
+  "cpu": "Apple M3 Pro",
+  "ramGB": 18,
+  "macOS": "27.0.1",
+  "swift": "6.4",
+  "architecture": "arm64",
+  "build": "optimized release",
+  "datasetCount": 10000,
+  "dataset": "Deterministic synthetic JPEG illustrations; 99% 640px and 1% 2560px; mixed square/landscape aspect ratios."
+}

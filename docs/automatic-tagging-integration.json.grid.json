@@ -1,0 +1,30 @@
+{
+  "app" : "Folio",
+  "firstScreenPreviewsReady" : true,
+  "firstScreenPreviewWaitMS" : 103.86474999540951,
+  "gridUpdateCPU" : {
+    "count" : 0,
+    "maxMS" : 0,
+    "medianMS" : 0,
+    "p95MS" : 0
+  },
+  "items" : 33,
+  "mainRunLoopIntervals" : {
+    "count" : 1,
+    "maxMS" : 17.396583323716186,
+    "medianMS" : 17.396583323716186,
+    "p95MS" : 17.396583323716186
+  },
+  "nominalScrollPointsPerSecond" : 2400,
+  "note" : "CPU update times and timer intervals; not GPU frame times. Preview readiness measured separately.",
+  "peakTileLayers" : 21,
+  "scrollMode" : "fixed-speed scrolling",
+  "scrollSpanPoints" : 20,
+  "startupToItemsMS" : 229.12208332854789,
+  "steps" : 1,
+  "tileSize" : 190,
+  "version" : "0.2.0",
+  "viewportHeight" : 719,
+  "viewportWidth" : 896,
+  "visiblePreviewReadyFraction" : 1
+}
